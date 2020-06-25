@@ -1,2 +1,2 @@
 # schematics
-The schematics files for different SharksHead modules 
+The Kicad schematics files for different SharksHead modules 
